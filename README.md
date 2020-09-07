@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-I'm a software enginnering intern at Microsoft working on the brand new Surface Duo folding phone. Last year, I did a 9-month co-op at Apple as a hardware engineer on the Apple TV. From San Francisco, CA. Junior (?) at Cal Poly SLO studying electrical engineering. 
+I'm a software engineering intern at Microsoft working on the brand new Surface Duo folding phone. Last year, I did a 9-month co-op at Apple as a hardware engineer on the Apple TV. From San Francisco, CA. Junior (?) at Cal Poly SLO studying electrical engineering. 
 
 ### 🔭 Cool Projects
 ---
@@ -37,7 +37,7 @@ Check out my green boxes
 
 #### 💻 Computer organization/SoC platform architecture: 
 - Just reading up. Doing stuff is super complicated.
-- After modeling microarchitecture + ISA + MCU to impleemnt RISC-V ISA, I don't really like HDL/RTL stuff, but I'm still super interested in how everything works. 
+- After modeling microarchitecture + ISA + MCU to implement RISC-V ISA, I don't really like HDL/RTL stuff, but I'm still super interested in how everything works. 
 - Worked with Apple A-core SoCs and Qualcomm Snapdragon platform on Surface Duo. 
 
 As my mentor said: 
