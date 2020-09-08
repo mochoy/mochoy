@@ -6,11 +6,11 @@ I'm a software engineering intern at Microsoft working on the brand new Surface 
 ### 🔭 Cool Projects
 ---
 
-[Suild.com](http://suild.com/): Website to sell PCB-based electronics products for Nerf blasters, offer technical documentation, and host interactive web applications. 30,000+ annual sessions, MERN stack.
+[suild.com](http://suild.com/): Website to sell PCB-based electronics products for Nerf blasters, host interactive web applications, and offer technical documentation. 30,000+ annual sessions, MERN stack.
 
-[Montychoy.com](http://montychoy.com/): My personal website. Check out that dope home image. I update it every year for intership application season. 
+[montychoy.com](http://montychoy.com/): My personal website. Check out that dope home image. I overhaul the site every year for internship application season. 
 
-[Select-Fire Rapidstrike Kit](https://suild.com/shop/4): PCB-based product to enable select-fire control in a Nerf blaster. Features ATmega328P MCU & PID controlled inductive load powered by a high-discharge LiPo battery. 300+ sold to 10+ countries. 
+[Select-Fire Rapidstrike Kit](https://suild.com/shop/4): PCB-based product to enable select-fire control in a Nerf blaster. Features ATmega328P MCU, DC-DC converter, & PID controlled inductive load powered by a high-discharge LiPo battery. 300+ sold to 10+ countries. 
 
 [Flywheel Setup Picker](https://suild.com/tools/flywheel-setup-picker): Basically Reddit for motorized Nerf blasters.
 
