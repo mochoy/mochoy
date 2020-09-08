@@ -19,7 +19,7 @@ I'm a software engineering intern at Microsoft working on the brand new Surface 
 Check out my green boxes
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mochoy&show_icons=true&count_private=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mochoy&show_icons=true&count_private=true&hide=issues" alt="My github stats" />
 </a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mochoy&layout=compact" />
